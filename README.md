@@ -20,7 +20,6 @@ KisaanHaat is a web-based platform designed to bridge the gap between certified 
 - **Frontend:** React (with Vite and Tailwind CSS for styling) ⚛️
 - **Backend:** Node.js, Express.js 🌐
 - **Database:** MongoDB (with Mongoose for schema management) 🗄️
-- **Smart Contracts:** Blockchain integration for contract automation ⛓️
 - **Additional Tools:** Git, GitHub for version control 🛠️
 
 ## How to Run the Project
@@ -28,7 +27,7 @@ KisaanHaat is a web-based platform designed to bridge the gap between certified 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Harsh1428rao/Assured_Farming.git
+   git clone https://github.com/adityaydv13/kisanhaat.git
    ```
 
 2. **Install Dependencies:**
@@ -36,7 +35,7 @@ KisaanHaat is a web-based platform designed to bridge the gap between certified 
    Navigate to the project directory and install the required dependencies:
 
    ```bash
-   cd Assured_Farming
+   cd kisanhaat
    npm install
    ```
 
